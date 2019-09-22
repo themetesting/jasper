@@ -8,7 +8,7 @@ language: 'en-uk'
 
 # Website info
 name: 'Aymen Hafeez'
-description: "Chemical engineering graduate. Recreational mathematcian. Self-learning robotics and using this site to document them."
+description: "Chemical engineering graduate. Recreational mathematcian. Self-learning robotics and machine learning, while using this site to document personal projects, as well as interesting mathematics and science related results, proofs, derivations etc."
 
 short_url: 'themetesting.github.io/jasper/'
 google_analytics: UA-69281367-1
@@ -45,7 +45,7 @@ plugins: [jekyll-paginate]
 # or "master" otherwise
 safe: false
 lsi: false
-username: jekyller
+username: aymenhafeez
 repo: jasper
 branch: master
 relative_source: ../jasper/
